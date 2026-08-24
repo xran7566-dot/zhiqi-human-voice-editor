@@ -1,5 +1,5 @@
 interface:
-  display_name: "智企-去AI味写作工坊"
+  display_name: "智企写作工坊"
   short_description: "中文去AI味、个人风格与参考文案改编扫描工作流"
   default_prompt: "使用 $zhiqi-human-voice-editor 按指定表达方式处理这篇中文文案。"
 policy:
